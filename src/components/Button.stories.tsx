@@ -6,7 +6,6 @@ export default {
   component: Button,
   args: {
     children: 'Create account',
-    size: 'md'
   },
   argTypes: {}
 } as Meta<ButtonProps>
